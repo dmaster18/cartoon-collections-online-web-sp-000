@@ -6,7 +6,6 @@ snacks = ["crackers", "gouda", "thyme"]
 soup = ["tomato soup", "cheddar", "oyster crackers", "gouda"]
 ingredients = ["garlic", "rosemary", "bread"]
 
-
 def roll_call_dwarves(array)# code an argument here
   i = 1 
   array.each do |name|
