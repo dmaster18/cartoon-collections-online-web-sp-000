@@ -54,4 +54,4 @@ puts long_planeteer_calls(short_words)
 puts long_planeteer_calls(assorted_words)
 puts find_the_cheese(snacks)
 puts find_the_cheese(soup)
-puts find_the_cheese(soup)
+puts find_the_cheese(ingredients
